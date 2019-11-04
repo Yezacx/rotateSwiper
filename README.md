@@ -1,4 +1,4 @@
-### rotateSwiper旋转轮播图
+## rotateSwiper旋转轮播图
 #### 把自己写的样式放在index.css中，引入
 ~~~
 <link rel="stylesheet" href="css/index.css"/>
